@@ -10,7 +10,7 @@ public class EjemploGit {
 		
 		System.out.println("Mi nombre es " + nombre);
 		
-		System.out.println("Hi");
+		System.out.println("Hii");
 	}
 
 }
